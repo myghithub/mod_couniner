@@ -1,0 +1,389 @@
+{
+   "pc": "com.sudagaranyar.trucklongChassis",
+   "kang_zayvius": [
+      {
+       "id": "1",
+       "tittle": "Truck Center Muatan Batu",
+       "date": "2021-10-13",
+       "link_file": "https://archive.org/download/truck-canter-muatan-batu-cvt-zone-id/Truck%20Canter%20Muatan%20Batu%20CVT%20ZoneID.zip",
+       "format_file":"zip",
+       "images": "https://1.bp.blogspot.com/-Or2phh0TzVQ/XjwX5noOnmI/AAAAAAAACZ8/OH8WmsCNzkElipwDLbhK21_tXU-svP_zwCLcBGAsYHQ/s640/BATU.png"
+      },
+      {
+        "id": "2",
+        "tittle": "Truck Madura Kuning",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/madura-kuning/Madura%20Kuning.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqsvchMI0gwF3dGO0Z26NlWEtxam0XsY25A&usqp=CAU"
+      },
+      {
+        "id": "3",
+        "tittle": "Truck Madura Hijau",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/bEoZ8W0bOG0/maxresdefault.jpg"
+      },
+      {
+        "id": "4",
+        "tittle": "Truck Madura Hitam",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/madura-hitam/Madura%20Hitam.zip",
+        "format_file":"zip",
+        "images": "https://i.pinimg.com/originals/e4/06/fb/e406fbbd633255fd06caaeff1f6f49d8.jpg"
+      },
+      {
+        "id": "5",
+        "tittle": "New Canter Gandeng[ Punuk+ Terpal Kotak]",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/new-canter-gandeng-punuk-terpal-kotak/New%20CanterGandeng%5BPunuk%2BTerpal%20Kotak%5D.zip",
+        "format_file":"zip",
+        "images": "https://emakgaming.com/wp-content/uploads/2020/04/Mod-BUSSID-Truk-Gandeng-Punuk-Muatan-terpal-Kotak.jpg"
+      },
+      {
+        "id": "6",
+        "tittle": "New Canter Gandeng[ Punuk+ Non Terpal]",
+        "date": "2021-03-17",
+        "link_file": "https://archive.org/download/new-canter-gandeng-punuk-non-terpal/New%20CanterGandeng%5BPunuk%2BNon%20Terpal%5D.zip",
+        "format_file":"zip",
+        "images": "https://emakgaming.com/wp-content/uploads/2020/04/Mod-BUSSID-Truk-Gandeng-Punuk-Muatan-No-Terpal-Blacky.jpg"
+      },
+      {
+        "id": "7",
+        "tittle": "New oppa muda",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/new-oppa-muda/New%20oppa%20muda.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91xSTsEhoKeJDV7vuj4gwKlukXC32vEi90q-ahFBqF06w_Tg&s"
+      },
+      {
+        "id": "8",
+        "tittle": "Mod BUSSID Truk Anti Gossip Muatan Galon Full LED",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-bussid-truk-anti-gossip-muatan-galon-full-led-cvt-zone-id/Mod%20BUSSID%20Truk%20Anti%20Gossip%20Muatan%20Galon%20Full%20LED%20CVT%20ZoneID.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/XS8yP18jSX0/maxresdefault.jpg"
+      },
+      {
+        "id": "9",
+        "tittle": "Mod BUSSID Truk Oleng Paman Santri VP",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-bussid-truk-oleng-paman-santri-vp/Mod%20BUSSID%20Truk%20Oleng%20Paman%20Santri%20VP.zip",
+        "format_file":"zip",
+        "images": "https://stuffonmyrabbit.net/wp-content/uploads/2020/11/Eksterior-Truck-Canter-Paman-Santri-Muatan-Gayor.jpg"
+      },
+      {
+        "id": "10",
+        "tittle": "Truck GAYOR BAWA KAYU over load",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/full-gayor-bawa-kayu/FULL%20GAYOR%20BAWA%20KAYU.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/Um82L4Av-No/hqdefault.jpg"
+      },
+      {
+         "id": "11",
+         "tittle": "Mod Truck Anti Gosip Box",
+         "date": "2021-10-13",
+         "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/ISUZU%20NMR71%20BOX%20HSD%201.zip",
+         "format_file":"zip",
+         "images": "https://1.bp.blogspot.com/-FpcGnNpIpc0/XyfdsUmKcCI/AAAAAAAAAK4/eHOu7GiZt5ctpXGWJR0fr6Zja2og5WypwCLcBGAsYHQ/s640/box.jpg"
+       },
+      {
+        "id": "12",
+        "tittle": "Mod BUSSID Truk Tawakal 5",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/taawakal-5-v-2/TRUCK%20TAWAKAL%205.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-GH6uBW0YA-M/YEWKiLYnq4I/AAAAAAAAFgw/9tuR4RTwVhA2UN6aaxBb59r5HeLB3H8oQCLcBGAsYHQ/s1280/download%2Bmod%2Bbussid%2Bnew%2Btawakal%2B5.jpg"
+      },
+      {
+        "id": "13",
+        "tittle": "New Canter Gandeng[ Punuk+ Terpal Segitiga]",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/new-canter-gandeng-punuk-terpal-segitiga/New%20CanterGandeng%5BPunuk%2BTerpal%20Segitiga%5D.zip",
+        "format_file":"zip",
+        "images": "https://emakgaming.com/wp-content/uploads/2020/04/Mod-BUSSID-Truk-Gandeng-Punuk-Muatan-terpal-segitiga.jpg"
+      },
+      {
+        "id": "14",
+        "tittle": "Mod Truck Canter Minimalis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/canter%20minimalis.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-ZidCYXx-isE/XyffBAkm4tI/AAAAAAAAALQ/6OSd5f91uMgYuwm8Q4Gehz20qqq0B2k-wCLcBGAsYHQ/s0/minimalis.jpg"
+      },
+      {
+        "id": "15",
+        "tittle": "Mod BUSSID Truk Tawakal 5 v2",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/taawakal-5-v-2/TAAWAKAL%205V2.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/gN9Gd5LqmxM/hqdefault.jpg"
+      },
+      {
+        "id": "16",
+        "tittle": "Mod BUSSID Truk Anti Gossip Sedang Proses",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-bussid-truk-anti-gossip-sedang-proses/Mod%20BUSSID%20Truk%20Anti%20Gossip%20Sedang%20Proses.zip",
+        "format_file":"zip",
+        "images": "https://lh3.googleusercontent.com/oMtZkrrg2zpocg0uSvrJtLVJWgdAx-3Nak7QmnXhd3TJmV-CZf1rDOqnuKiPpFpTcA"
+      },
+      {
+        "id": "17",
+        "tittle": "Truck Canter Ads Budak Rawit",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/canter-budak-rawit-rmc-creation/Livery%20Canter%20Ads%20Budak%20Rawit%20By%20LfDsgn.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/OTLF_Cn_A7U/maxresdefault.jpg"
+      },
+      {
+        "id": "18",
+        "tittle": "Truck Mukhlas Berkah Rawit",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/canter-budak-rawit-rmc-creation/Mukhlas%20Berkah%20Rawit.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/04/Download-MOD-Bussid-Truck-Canter-Mukhlas.jpg"
+      },
+      {
+        "id": "19",
+        "tittle": "Truk CANTER BUDAK RAWIT ",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/canter-budak-rawit-rmc-creation/CANTER%20BUDAK%20RAWIT%20%5BRMC%20CREATION%5D.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bussid-truck-budak-rawit-full-anim-terbaru.jpeg"
+      },
+      {
+        "id": "20",
+        "tittle": "Truck Center Muatan Batu",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-canter-muatan-batu-cvt-zone-id/Truck%20Canter%20Muatan%20Batu%20CVT%20ZoneID.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-Or2phh0TzVQ/XjwX5noOnmI/AAAAAAAACZ8/OH8WmsCNzkElipwDLbhK21_tXU-svP_zwCLcBGAsYHQ/s640/BATU.png"
+      },
+      {
+        "id": "21",
+        "tittle": "Truck Canter Sulawesi",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/canter-sulawesi/CanterSulawesi.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/xpumOhqDza4/maxresdefault.jpg"
+      },
+      {
+        "id": "22",
+        "tittle": "Truck Umplung Juragan Sayur",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-umplung-juragan-sayur/Truck%20Umplung%20Juragan%20Sayur.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-5olxRgexoSQ/XtSKNDc6VpI/AAAAAAAACsM/lLwVPaRD1rQHpJIs7NAHKgq3IwJ-05e6gCNcBGAsYHQ/s1600/Livery%2BTruck%2BUmplung%2BJuragan%2BSayur.jpg"
+      },
+      {
+        "id": "23",
+        "tittle": "Mod Truck Canter Full Strobo",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/nmr.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-SLU4MmSrr3c/XyfgIJHtszI/AAAAAAAAALg/5v4V2gIZk50KWr4E3vkqavuGF-eFnBeaACLcBGAsYHQ/s0/strobo.jpg"
+      },
+      {
+        "id": "24",
+        "tittle": "Truck Canter Rebbeca Rollis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-truck-rebecca-on-fire-hm-cabe/rebecca%20rollis.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/ucQ3BGMg6Yw/hqdefault.jpg"
+      },
+      {
+        "id": "25",
+        "tittle": "TRUK CANTER REBECCA CONCEPT",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-truck-rebecca-on-fire-hm-cabe/%20MOD%20TRUK%20CANTER%20LIVERY%20REBECCA%20CONCEPT.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/fK4CVeKrhaU/hqdefault.jpg"
+      },
+      {
+        "id": "26",
+        "tittle": "Canter Rebecca Pindang",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-truck-rebecca-on-fire-hm-cabe/Canter%20Rebecca%20Pindang.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.sgcarena.com/wp-content/uploads/2020/08/SGCA_IMG-5664.jpg?w=1280&ssl=1"
+      },
+      {
+        "id": "27",
+        "tittle": "REBECCA ZAFIRA",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-truck-rebecca-on-fire-hm-cabe/REBECCA%20ZAFIRA.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/tkXxco2qERU/maxresdefault.jpg"
+      },
+      {
+        "id": "28",
+        "tittle": "Truck Rebecca On Fire HM Cabe",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-truck-rebecca-on-fire-hm-cabe/Mod%20Truck%20Rebecca%20On%20Fire%20HM%20Cabe%20.zip",
+        "format_file":"zip",
+        "images": "https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bussid-truck-rebecca-on-fire-HM-Cabe.jpg"
+      },
+      {
+        "id": "29",
+        "tittle": "Truck Rebecca My Black rangka",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-rebecca-terpal-segi-3/Mod%20Rebecca%20Terpal%20Kerangka.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpsLuM0PUwZEKvQe_TuCVHJGymUdRIIStJw&usqp=CAU"
+      },
+      {
+        "id": "30",
+        "tittle": "Truck Rebecca My Black kotak",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-rebecca-terpal-segi-3/Mod%20Rebecca%20Terpal%20Kotak.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/dRvN_y9NIoI/maxresdefault.jpg"
+      },
+      {
+        "id": "31",
+        "tittle": "Truck Rebecca My Black Segi 3",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/mod-rebecca-terpal-segi-3/Mod%20Rebecca%20Terpal%20segi%203.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/PE-32xSaaP4/mqdefault.jpg"
+      },
+      {
+        "id": "32",
+        "tittle": "Mod truck mersi bagong tribal  Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/MB_Bagong_LongTriball_cvt_Totti%209.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-jLT5BvKwLFg/Xc2ZnHLCO1I/AAAAAAAAEEs/a0PjjH8t_VEzAmns0xTj06Y3Vs1MIKAVwCNcBGAsYHQ/s1600/Mod%2BTruck%2BMercy%2BBagong%2BTribal%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "33",
+        "tittle": "Mod truck fuso old muatan buss Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/Old%20Fuso%20Angkut%20UHD%20MRPTeam%20ft%20Totti%208.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-WCz6xMopodA/Xc2ZhyYji-I/AAAAAAAAEEo/XME4u_4jqjkH2yHjF9FttY-B_fEIQl3KwCNcBGAsYHQ/s1600/Mod%2BTruck%2BFuso%2BOld%2BMuatan%2BBus%2BUHD%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "34",
+        "tittle": "Mod truck hino tribal angkut kayu  Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/Hino_LongTribal%20CODIT%20Totti_CHANEL%207.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-OJFh8l9hZ6k/Xc2ZbZpkV6I/AAAAAAAAEEg/1pjn0vx5w98mFHcz66gkM23wOFIgyfMnQCNcBGAsYHQ/s1600/Mod%2BTruck%2BHino%2BTribal%2BAngkut%2BKayu%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "35",
+        "tittle": "Mod Truck Hino Lohan Logistic Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/hino%20lohan%20purwo%20logistic%20cvt%20WSP%20tribal%206.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-hcFKjgjulr4/Xc2ZUFYbWmI/AAAAAAAAEEY/F5I5GtTBWh4X6rbY0Bh9dX_B3-ZVZeaJACNcBGAsYHQ/s1600/Mod%2BTruck%2BHino%2BLohan%2BTribal%2BLogistic%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "36",
+        "tittle": "Mod truck VOLVO FH16 8X4 Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/TRUCK%20VOLVO%20FH16%208x4%205.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhZkgUCF9JIR2RazcLFNVwKP1-rfg3L7xTQ&usqp=CAU"
+      },
+      {
+        "id": "37",
+        "tittle": "Mod truck ISUZU NMR 71 TRIBAL Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/Truck%20Isuzu%20NMR71%20Triball%20Long%20Chassis%204.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/--7Sjh_ZXGvU/Xc2ZFn45AtI/AAAAAAAAEEM/RbxcXvjIGmEcBi-JZLHnAPdnSl1nuO5sQCNcBGAsYHQ/s1600/Mod%2BTruck%2BIsuzu%2BNMR71%2BTribal%2BOverload%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "38",
+        "tittle": "Mod truck HINIO 700 Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/Truck%20Trailer%20Hino%20700%203.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-PgU1KvQKkt4/Xc2Y-9tgaaI/AAAAAAAAEEE/5EcM88zG_I8gSK36MftWsEcu98YzuOzDQCNcBGAsYHQ/s1600/Mod%2BTruck%2BHino%2B700%2BTrailer%2BLogistic%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "39",
+        "tittle": "Mod truck fuso 20 ban superLong Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/AllnewFusoTwentyball%5B20%20ban%5D%20v2%202.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-PTro8OGGntg/Xc2Y5c1gHZI/AAAAAAAAEEA/XW70hayXUow7eQRL7FnhC_7YccUmfgd4QCNcBGAsYHQ/s1600/Mod%2BTruck%2BFuso%2B20%2BBan%2BSuper%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "40",
+        "tittle": "Mod truck canter bak tribal Long Chassis",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/truck-trailer-hino-700-3/Truck%20Canter%20Triball%20by%20Andreas_R35%201.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-ONTpoziU4ro/Xc2YxLwDqII/AAAAAAAAED8/umtOib1ThjIy0zmTryKrPs1rFAEKQ-9vACNcBGAsYHQ/s1600/Mod%2BTruck%2BCanter%2BBak%2BTribal%2BLong%2BChassis.jpeg"
+      },
+      {
+        "id": "41",
+        "tittle": "Mod Truck Trailer Original Bussid",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/2505.jpg"
+      },
+      {
+        "id": "42",
+        "tittle": "Truck Hino Trailer",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-Trailer.jpeg"
+      },
+      {
+        "id": "43",
+        "tittle": "Truck Hino 500 Trailer v2",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Hino-500-Trailer-V2.jpg"
+      },
+      {
+        "id": "44",
+        "tittle": "Truck Hino 500 Trailer v1",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Hino-500-Trailer.jpg"
+      },
+      {
+        "id": "45",
+        "tittle": "Truck Hino 700 Trailer Tangki",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-700-Trailer-Tangki.jpeg"
+      },
+      {
+        "id": "46",
+        "tittle": "Truck Hino 700 Trailer Peti Kemas",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-700-Trailer-Peti-Kemas.jpeg"
+      },
+      {
+        "id": "47",
+        "tittle": "Truck Hino 700 Trailer Flat",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-700-Trailer-Flat.jpeg"
+      },
+      {
+        "id": "48",
+        "tittle": "Truck Scania Car Transporter",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "format_file":"zip",
+        "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Scania-Car-Transporter.jpeg"
+      }
+   ]
+}
