@@ -325,7 +325,7 @@
         "id": "41",
         "tittle": "Mod Truck Trailer Original Bussid",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/hino%20trailer%20tester.zip",
         "format_file":"zip",
         "images": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/2505.jpg"
       },
@@ -333,7 +333,7 @@
         "id": "42",
         "tittle": "Truck Hino Trailer",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/truk-trailer.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-Trailer.jpeg"
       },
@@ -341,7 +341,7 @@
         "id": "43",
         "tittle": "Truck Hino 500 Trailer v2",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Hino%20500%20Trailer%20V2.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Hino-500-Trailer-V2.jpg"
       },
@@ -349,7 +349,7 @@
         "id": "44",
         "tittle": "Truck Hino 500 Trailer v1",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Hino%20500%20Trailer%20V1%20.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Hino-500-Trailer.jpg"
       },
@@ -357,7 +357,7 @@
         "id": "45",
         "tittle": "Truck Hino 700 Trailer Tangki",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Hino%20700%20Tangki%20MAH%20Channel.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-700-Trailer-Tangki.jpeg"
       },
@@ -365,7 +365,7 @@
         "id": "46",
         "tittle": "Truck Hino 700 Trailer Peti Kemas",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Hino%20700%20Peti%20Kemas%20MAH%20Channel.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-700-Trailer-Peti-Kemas.jpeg"
       },
@@ -373,7 +373,7 @@
         "id": "47",
         "tittle": "Truck Hino 700 Trailer Flat",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Hino%20700%20Flat%20MAH%20Channel.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Hino-700-Trailer-Flat.jpeg"
       },
@@ -381,9 +381,25 @@
         "id": "48",
         "tittle": "Truck Scania Car Transporter",
         "date": "2021-10-13",
-        "link_file": "https://archive.org/download/maduran-hijau/Maduran%20Hijau.zip",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Scania_Car_Transporter_cvt_Trian_NdokO.zip",
         "format_file":"zip",
         "images": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Truck-Scania-Car-Transporter.jpeg"
+      },
+      {
+        "id": "49",
+        "tittle": "Tesla Semi Update",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Tesla%20Semi%20Update%20v3.6%20MAH%20Channel.zip",
+        "format_file":"zip",
+        "images": "https://voceinfo.com/wp-content/uploads/2021/06/Imagemexteriortesla-1360x765.png"
+      },
+      {
+        "id": "50",
+        "tittle": "Ud Quester Truk Kontainer",
+        "date": "2021-10-13",
+        "link_file": "https://archive.org/download/hino-trailer-tester/Ud%20Quester%20Truk%20Kontainer.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/5voe_3hsNtk/maxresdefault.jpg"
       }
    ]
 }
